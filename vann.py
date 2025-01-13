@@ -1,3 +1,5 @@
+print("CHECK")
+
 import math as m
 import pygame as pg
 clock = pg.time.Clock()
