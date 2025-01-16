@@ -1,1 +1,1 @@
-Dette er ***kult*** et prosjekt.
+Dette er et **_kult_** prosjekt.
